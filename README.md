@@ -1,4 +1,4 @@
-[readme_md.md](https://github.com/user-attachments/files/32880061/readme_md.md)
+[readme.md](https://github.com/user-attachments/files/32880061/readme_md.md)
 # Inteligência de Dados Aplicada a Compras Governamentais
 > **Aplicação do Princípio de Pareto nos Dados da API do PNCP (Lei nº 14.133/2021)**
 
